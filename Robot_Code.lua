@@ -230,6 +230,7 @@ function sysCall_actuation()
                 isTargetReached = false;
                 onetime = true
                 flag = false
+                Init = false
             end
         end  
     end 
